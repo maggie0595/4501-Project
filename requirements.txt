@@ -1,10 +1,10 @@
-math
-bs4
-matplotlib.pyplot
-pandas
-geopandas
-requests
-sqlalchemy
-re
-random
-numpy
+pip install math
+pip install bs4
+pip install matplotlib.pyplot
+pip install pandas
+pip install geopandas
+pip install requests
+pip install sqlalchemy
+pip install re
+pip install random
+pip install numpy

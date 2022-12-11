@@ -1,0 +1,10 @@
+math
+bs4
+matplotlib.pyplot
+pandas
+geopandas
+requests
+sqlalchemy
+re
+random
+numpy

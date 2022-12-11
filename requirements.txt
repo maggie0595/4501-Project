@@ -8,3 +8,4 @@ pip install sqlalchemy
 pip install re
 pip install random
 pip install numpy
+pip install pyarrow
